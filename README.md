@@ -17,10 +17,10 @@ The following analysis was perfomed
 
 ## Key Findings
 
-The network exhibits small-world characteristics and a degree distribution consistent with a scale-free structure, however we could not statistically verify this property making this finding tentative. 
-Researchers form tightly connected communities linked by a small number of important researchers.
-The network is relatively robust to random node removal but vulnerable to targeted attacks on key connecting researchers.
-Community detection identifies 19 distinct research communities.
+- The network exhibits small-world characteristics and a degree distribution consistent with a scale-free structure, however we could not statistically verify this property making this finding tentative. 
+- Researchers form tightly connected communities linked by a small number of important researchers.
+- The network is relatively robust to random node removal but vulnerable to targeted attacks on key connecting researchers.
+- Community detection identifies 19 distinct research communities.
 
 ## Tools & Data
 
