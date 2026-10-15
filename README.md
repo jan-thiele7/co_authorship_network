@@ -10,10 +10,10 @@ This project investigates the structure of the academic field of network science
 
 The following analysis was perfomed
 
-Network structure: Degree distribution, density, clustering, and path lengths
-Centrality: Degree, betweenness, closeness, and eigenvector centrality
-Robustness: Network resilience to random failures and targeted attacks
-Community detection: Identification of research communities using the Leiden algorithm
+- Network structure: Degree distribution, density, clustering, and path lengths
+- Centrality: Degree, betweenness, closeness, and eigenvector centrality
+- Robustness: Network resilience to random failures and targeted attacks
+- Community detection: Identification of research communities using the Leiden algorithm
 
 ## Key Findings
 
